@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="juliu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:10 PM"/>
+        <attribute name="created" value="anVsaXU7VUxLQUJPT1M7MjAyNC0wOS0wNDswODowNToxNyBQTTsyNDQ3"/>
+        <attribute name="edited" value="anVsaXU7VUxLQUJPT1M7MjAyNC0wOS0wNDswOToxMDoxMCBQTTs0OzI1NDg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bilanganbulat" type="Integer" array="False" size=""/>
+            <input variable="bilanganbulat"/>
+            <output expression="bilanganbulat" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
